@@ -1,1 +1,7 @@
-### TurtleTree
+# TurtleTree
+
+### Installation
+
+```
+pip install turtletree
+```
